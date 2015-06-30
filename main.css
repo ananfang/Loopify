@@ -72,31 +72,6 @@ html * {
 
 }
 
-.introtitle {
-  font-size: 36px;
-  /*font-weight: bold;*/
-  padding: 20px 0px 10px 0px;
-  text-align: center;
-}
-
-.introheader {
-  text-align: center;
-  font-weight: bold;
-  padding: 10px 0px 20px 0px;
-}
-
-.shortintro p {
-  font-size: 20px;
-  padding: 0px 0px 120px 0px;
-}
-
-.shortintro .thumbnail {
-  border:0;
-  box-shadow:0;
-  border-radius:0;
-  padding: 120px 0px 0px 0px;
-}
-
 .col-md-4 h3 {
   text-align: center;
 }
