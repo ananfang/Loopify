@@ -3,19 +3,6 @@ html * {
   font-family: 'PT Sans', sans-serif;
 }
 
-/*
-.jumbotron {
-  height:100vh;
-  width: 100%;
-  background: url('assets/webbg_b2.png') no-repeat center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  position: relative;
-}
-*/
-
 .jumbotron {
   background: url(assets/webbg_b2.png);
   -webkit-background-size: cover;
@@ -24,25 +11,12 @@ html * {
   background-size: cover;
 }
 
-
-
-/*
-.jumbotron .col-md-6 {
-  float:none;
-  display:inline-block;
-  vertical-align:middle;
-  margin-right:-4px;
-}
-*/
-
-
 .jumbotron h1 {
   color: #333333;
   text-align: center;
   padding: 100px 0px 0px 0px;
   /*font-weight: bold;*/
 }
-
 
 .jumbotron p {
   color: #333333;
@@ -56,13 +30,11 @@ html * {
   align: center;
 }
 
-
 .jumbotron img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
-
 
 .carousel.c-fade .item {
   -webkit-transition: opacity 1s ease-in-out;
@@ -71,6 +43,7 @@ html * {
   -o-transition: opacity 1s ease-in-out;
   transition: opacity 1s ease-in-out;
 }
+
 .carousel.c-fade .active.left,
 .carousel.c-fade .active.right {
   left: 0;
@@ -78,15 +51,16 @@ html * {
   opacity: 0;
   filter: alpha(opacity=0);
 }
+
 .carousel.c-fade .next,
 .carousel.c-fade .prev {
   left: 0;
   z-index: 1;
 }
+
 .carousel.c-fade .carousel-control {
   z-index: 3;
 }
-
 
 .info {
   text-align: center;
@@ -97,13 +71,6 @@ html * {
   padding: 0px 20px 0px 0px;
 
 }
-
-/*.shortintro .hr {
-  height: 3px;
-  background: #333333;
-  width: 40px;
-  margin: 0 auto;
-}*/
 
 .introtitle {
   font-size: 36px;
@@ -130,8 +97,6 @@ html * {
   padding: 120px 0px 0px 0px;
 }
 
-
-
 .col-md-4 h3 {
   text-align: center;
 }
@@ -151,13 +116,6 @@ html * {
   text-align: center;
 }
 
-/*.combine .hr {
-  height: 3px;
-  background: #333333;
-  width: 40px;
-  margin: 0 auto;
-}*/
-
 .combine img {
   width: 100px;
   heigt: 100px;
@@ -167,25 +125,20 @@ html * {
   /*padding: 50px 0px 0px 0px;*/
 }
 
-
 .combine h3 {
   text-align: center;
 }
-
 
 .footer {
   background-color: #333333;
   padding: 10px;
 }
 
-
 .footer h4 {
   color: #808080;
   font-weight: bold;
   text-align: left;
 }
-
-
 
 .footer h5 {
   color: #ffffff;
