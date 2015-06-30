@@ -81,35 +81,3 @@ html * {
   font-size: 20px;
   text-align: center;
 }
-
-.footer {
-  background-color: #333333;
-  padding: 10px;
-}
-
-.footer h4 {
-  color: #808080;
-  font-weight: bold;
-  text-align: left;
-}
-
-.footer h5 {
-  color: #ffffff;
-}
-
-.footer img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.footer p {
-  color: #808080;
-  padding: 20px 0px 0px 0px;
-  text-align: left;
-  font-size: 14px;
-}
-
-.footer a {
-  color: #ffffff;
-}
