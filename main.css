@@ -16,10 +16,8 @@ html * {
 }
 */
 
-
-
 .jumbotron {
-  background: url(http://i.imgur.com/5gNS0Sm.png);
+  background: url(assets/webbg_b2.png);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
