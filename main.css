@@ -94,6 +94,5 @@ html * {
 
   #screenshotImg1 {
     content: url(assets/Screenshot1@2x.png);
-    height: 50%;
   }
 }
