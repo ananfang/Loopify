@@ -91,4 +91,9 @@ html * {
     content: url(assets/AppStoreBadge@2x.png);
     height: 70px;
   }
+
+  #screenshotImg1 {
+    content: url(assets/Screenshot1@2x.png);
+    height: 563px;
+  }
 }
