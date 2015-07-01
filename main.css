@@ -95,4 +95,8 @@ html * {
   #screenshotImg1 {
     content: url(assets/Screenshot1@2x.png);
   }
+
+  #screenshotImg2 {
+    content: url(assets/Screenshot2@2x.png);
+  }
 }
