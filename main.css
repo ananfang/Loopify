@@ -99,4 +99,16 @@ html * {
   #screenshotImg2 {
     content: url(assets/Screenshot2@2x.png);
   }
+
+  #screenshotImg3 {
+    content: url(assets/Screenshot3@2x.png);
+  }
+
+  #screenshotImg4 {
+    content: url(assets/Screenshot4@2x.png);
+  }
+
+  #screenshotImg5 {
+    content: url(assets/Screenshot5@2x.png);
+  }
 }
